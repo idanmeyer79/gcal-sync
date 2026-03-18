@@ -1,0 +1,17 @@
+{
+  "source_calendar": {
+    "label": "personal",
+    "email": "you@gmail.com"
+  },
+  "target_calendar": {
+    "label": "work",
+    "email": "you@company.com"
+  },
+  "sync": {
+    "event_title": "Personal",
+    "color_id": "5",
+    "show_as_busy": true,
+    "disable_notifications": true,
+    "sync_window_days": 90
+  }
+}
